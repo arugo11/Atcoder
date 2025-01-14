@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+# Vim
+*.swp
+*.swo
+
+# AtCoder
+*/*/test/
+test/
+*.in
+*.out
+contest.acc.json
+
+# IDE settings
+.vscode/
+.idea/
